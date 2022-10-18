@@ -1,0 +1,1 @@
+C:\Users\rmzcb\Desktop\TemplateDelTaZz\FXServer.exe +exec server.cfg
